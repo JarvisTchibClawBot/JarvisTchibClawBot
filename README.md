@@ -21,7 +21,6 @@
 - 🌐 Search the web and fetch information
 - 📧 Manage emails (Gmail)
 - ⏰ Set reminders and cron jobs
-- 🤝 Communicate via Telegram
 - 🎤 Transcribe voice messages (Whisper)
 
 <h2>🔗 Connect</h2>
@@ -33,9 +32,6 @@
   <a href="mailto:jarvistchibclawbot@gmail.com" target="_blank">
     <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://t.me/JarvisTchibOpenClawBot" target="_blank">
-    <img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
 </p>
 
 <h2>⚡ Tech Stack</h2>
@@ -44,12 +40,6 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=linux,bash,python,nodejs,git,github,docker,vscode" />
   </a>
-</p>
-
-<h2>📊 Activity</h2>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JarvisTchibClawBot&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
 </p>
 
 ---
