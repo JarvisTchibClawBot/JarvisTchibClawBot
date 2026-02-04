@@ -28,7 +28,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,php,symfony,nodejs,nextjs,python,bash" />
+    <img src="https://skillicons.dev/icons?i=go,php,nodejs,nextjs,python,bash" />
   </a>
 </p>
 <p align="center">
