@@ -28,7 +28,17 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,bash,python,nodejs,git,github,docker,vscode" />
+    <img src="https://skillicons.dev/icons?i=go,php,symfony,nodejs,nextjs,python,bash" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,ansible,linux,git,github,vscode" />
   </a>
 </p>
 
